@@ -684,11 +684,11 @@ address {
 }
 
 .modal-close:hover {
-    background-color: #ffffff;
+    background-color: #404bbf;
     border: none;
 }
 .modal-close:focus {
-    background-color: #ffffff;
+    background-color: #404bbf;
     border: none;
 }
 .modal-close-btn-icon {
@@ -697,10 +697,10 @@ address {
 }
 
 .modal-close-btn-icon:hover {
-    fill: #404bbf;
+    fill: #ffffff;
 }
 .modal-close-btn-icon:focus {
-    fill: #404bbf;
+    fill: #ffffff;
 }
 
 
@@ -846,7 +846,7 @@ address {
 
 
 .modal-user-info:focus + .modal-field-icon {
-    border-color: #4D5AE5;;
+    border-color: #4D5AE5;
 }
 
 .modal-field-icon {
