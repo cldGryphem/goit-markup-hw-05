@@ -818,12 +818,10 @@ address {
 }
 
 .policy-link {
-    .policy-link {
-        line-height: 1.34;
-        text-decoration: underline;
-        text-decoration-skip-ink: none;
-        color: #4d5ae5;
-}
+    line-height: 1.34;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    color: #4d5ae5;
 }
 
 .modal-send-btn {
